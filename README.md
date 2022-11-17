@@ -6,11 +6,11 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 I had some difficulty trying to add the hover effect to the image. But it was good, I learned a lot.
 
 ### Screenshot
-<img src="screenshot-qrcode.png" alt="screenshot">
+<img src="screenshot-nft.png" alt="screenshot">
 
 ### Links
 
-- Live Site URL: <a href="https://nathanfabio.github.io/project-qr-code-component/">Click here</a>
+- Live Site URL: <a href="https://nathanfabio.github.io/project-nftpreviewcard/">Click here</a>
 
 
 ### Built with
